@@ -6,7 +6,8 @@ Este proyecto es un ejercicio de llamar a una API con `React`, en donde se ha us
 
 En este ejercicio se ha usado la Api de Rick y Morty: https://rickandmortyapi.com/
 
-![Alt text](image-2.png)
+![Alt text](![Uploading image.png…]()
+)
 
 ## Si descargas el proyecto
 

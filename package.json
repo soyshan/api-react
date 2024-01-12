@@ -1,4 +1,5 @@
-{"homepage": "https://soyshan.github.io/api-react",
+{
+  "homepage": "https://soyshan.github.io/api-react",
   "name": "rick-and-morty-app",
   "version": "0.1.0",
   "private": true,
